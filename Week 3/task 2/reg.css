@@ -1,0 +1,82 @@
+body{
+    background-color: aquamarine;
+    padding: 50px;
+    box-sizing: border-box;
+}
+section{
+    border: 3px solid brown;
+    padding: 10px;
+}
+.mail{
+    display: inline-block;
+    
+}
+a{
+    list-style: none;
+}
+.fname{
+    position: relative;
+    left: 15px;
+    top: 15px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 22px;
+    font-size: 16px;
+}
+.lname{
+    position: relative;
+    left: 15px;
+    top: 15px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 22px;
+    font-size: 16px;
+}
+.pnumber{
+    position: relative;
+    left: 15px;
+    top: 15px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 22px;
+    font-size: 16px;
+}
+.mail{
+    position: relative;
+    left: 15px;
+    top: 15px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 22px;
+    font-size: 16px;
+}
+.best{
+    position: relative;
+    left: 15px;
+    top: 15px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 22px;
+    font-size: 16px;
+}
+.gen{
+    position: relative;
+    left: 15px;
+    top: 15px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 22px;
+    font-size: 16px;
+}
+.date{
+    position: relative;
+    left: 15px;
+    top: 15px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 22px;
+    font-size: 16px;
+}
+.acc{
+    display: inline-block;
+}
